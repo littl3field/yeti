@@ -33,7 +33,7 @@ $APT install build-essential git python-dev mongodb-org redis-server libcurl3 li
 
 # Clone project
 cd /opt
-git clone https://github.com/yeti-platform/yeti.git
+git clone https://github.com/rylittlefield/yeti.git
 
 # Install requirements
 cd /opt/yeti
